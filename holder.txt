@@ -1,0 +1,11 @@
+<div className='bg-white w-[93%] h-full rounded-2xl pb-8'>
+            <img src={img1} className='w-full h-auto rounded-2xl flex flex-wrap'></img>
+            <p className='font-perfum text-xl pl-4 pt-6 tracking-widest pb-4'>PERFUME</p>
+            <p className='font-body text-[40px] mx-4 leading-9 pb-4 pl-2'>Gabrielle Essence Eau De Parfum</p>
+            <p className='font-body pl-2 text-[25px] mx-4'>A floral, solar, and voluptuous interpretation composed by Oliver Polge, Perfume-Creator for the House of CHANELl</p>
+            <div className='flex flex-row pt-4 w-[93%] pb-4 pl-4 pr-4 items-center'>
+                <p className='font-body pl-2 text-4xl font-black'>149.99</p><p className='font-body ml-2 text-lg'>169.99</p>
+            </div>
+            <button className='h-[50px] w-[80%] bg-green-500 rounded-xl mb-4 ml-8' type='button'>
+                Add to Cart
+            </button>
